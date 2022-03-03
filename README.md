@@ -1,7 +1,8 @@
 ### Hello! My name is Leonardo.
 
 - I'm currently working on machine learning for galaxy morphology.
-- Learning machine and deep learning. 
+- Learning machine and deep learning.
+-  
 
 <div align="center">
  <a href="https://www.linkedin.com/in/leonardo-guimarães-189695190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
